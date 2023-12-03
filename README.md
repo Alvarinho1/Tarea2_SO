@@ -11,7 +11,7 @@ Ver las Carpetas de cada implementacion; Secuencial, Thread y OpenMP con el coma
 
 Navegar al directorio donde está el código fuente y las imágenes
 
-Para la carpeta Secuencial:
+# Para la carpeta Secuencial:
 
 Ejecutar el comando "make"
 
@@ -19,7 +19,7 @@ Ejecutar el comando "./cambio_color_secuencial nombre_imagen.jpg nombre_imagen_g
 
 reemplazar el nombre_imagen.jpg por el nombre de la imagen deseada, reemplazar el nombre_imagen_gris.jpg por cualquier nombre para la imagen convertida en gris, mantiendo el mismo formato (png, jpg, etc).
 
-Para la carpeta Thread:
+# Para la carpeta Thread:
 
 Ejecutar el comando "make"
 
@@ -27,7 +27,7 @@ Ejecutar el comando "./cambio_color_secuencial nombre_imagen.jpg nombre_imagen_g
 
 reemplazar el nombre_imagen.jpg por el nombre de la imagen deseada, reemplazar el nombre_imagen_gris.jpg por cualquier nombre para la imagen convertida en gris, mantiendo el mismo formato (png, jpg, etc) y reemplazar el numero 4 por la cantidad de hilos deseada.
 
-Para la carpeta OpenMP:
+# Para la carpeta OpenMP:
 
 Ejecutar el comando "make"
 
@@ -35,4 +35,7 @@ Ejecutar el comando "./cambio_color_secuencial nombre_imagen.jpg nombre_imagen_g
 
 reemplazar el nombre_imagen.jpg por el nombre de la imagen deseada, reemplazar el nombre_imagen_gris.jpg por cualquier nombre para la imagen convertida en gris, mantiendo el mismo formato (png, jpg, etc).
 
+# Para Limpiar los archivos generados:
+
+make clean
 
