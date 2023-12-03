@@ -8,7 +8,7 @@ Este trabajo aborda la implementación de programas en C++ para procesar imágen
 
 Visualizar las carpetas de cada implementación: Secuencial, Thread y OpenMP con el comando ls.
 
-Navegar al directorio donde se encuentra el código fuente y las imágenes.
+Navegar al directorio donde se encuentra el código fuente y las imágenes, por ejemplo cd Secuencial.
 
 # Para la carpeta Secuencial:
 Ejecutar el comando "make".
