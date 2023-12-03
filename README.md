@@ -1,6 +1,6 @@
 # Tarea2 Sistemas Operativos
 
-Integrantes: Matías Lagos y Álvaro
+Integrantes: Matías Lagos y Álvaro Jorquera
 
 # Introducción
 
