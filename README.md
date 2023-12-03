@@ -5,7 +5,6 @@ Integrantes: Matías Lagos y Álvaro Jorquera
 Este trabajo aborda la implementación de programas en C++ para procesar imágenes a color, aplicando un filtro de conversión a escala de grises. La tarea se llevará a cabo de manera secuencial y paralela, utilizando hebras a través de la clase thread y OpenMP. La motivación radica en aprovechar el procesamiento paralelo para mejorar la eficiencia y rendimiento del sistema.
 
 # Instrucciones para su compilación
-Para poder clonar el repositorio privado necesita ingresar el siguiente token "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" sin las comillas al momento de ingresar la contraseña.
 
 Visualizar las carpetas de cada implementación: Secuencial, Thread y OpenMP con el comando ls.
 
